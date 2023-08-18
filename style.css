@@ -1,0 +1,11 @@
+:root {
+    --text: rgb(16, 15, 15);
+    --background: rgb(253, 252, 252);
+    --primary: rgb(190, 4, 60);
+    --secondary: rgb(254, 207, 195);
+    --accent: rgb(103, 111, 111);
+}
+
+html {
+    background-color: var(--background);
+}
